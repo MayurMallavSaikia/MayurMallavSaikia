@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MayurMallavSaikia
-- 👀 I’m interested in Android Development projects 
-- 🌱 I’m currently learning LibGdx framework for indie game development
+- 👀 I’m interested in Web Development Projects
+- 🌱 I’m currently working with MERN stack technology
 - 💞️ I’m looking to collaborate on open Source projects
 - 📫 Reach me on my official mail: mayur2002official@gmail.com
 
